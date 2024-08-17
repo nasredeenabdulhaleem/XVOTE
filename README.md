@@ -152,4 +152,3 @@ For any questions or suggestions, please contact the project maintainer at [ibra
 
 ---
 
-You can modify the sections as needed based on your specific project details and requirements.
