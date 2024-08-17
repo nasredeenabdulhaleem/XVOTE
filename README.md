@@ -148,7 +148,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## **Contact**
 
-For any questions or suggestions, please contact the project maintainer at [your-email@example.com](mailto:ibrahimabdulquddus51@example.com).
+For any questions or suggestions, please contact the project maintainer at [ibrahimabdulquddus51@gmail.com](mailto:ibrahimabdulquddus51@gmail.com).
 
 ---
 
